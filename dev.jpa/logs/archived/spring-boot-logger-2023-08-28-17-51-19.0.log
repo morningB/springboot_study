@@ -1,0 +1,5 @@
+2023-08-28 17:51:19,447 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.0.1 on DESKTOP-I1BQ226 with PID 20812 (C:\Users\yjw00\Desktop\ppp\dev.jpa\build\classes\java\main started by yjw00 in C:\Users\yjw00\Desktop\ppp\dev.jpa)
+2023-08-28 17:51:19,450 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-28 17:51:19,451 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "test"
+2023-08-28 17:51:19,837 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-28 17:51:19,848 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.

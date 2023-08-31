@@ -1,0 +1,4 @@
+2023-08-30 10:43:04,747 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.0.1 on DESKTOP-I1BQ226 with PID 888 (C:\Users\yjw00\Desktop\ppp\dev.jpa\build\classes\java\main started by yjw00 in C:\Users\yjw00\Desktop\ppp\dev.jpa)
+2023-08-30 10:43:04,745 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.5.Final
+2023-08-30 10:43:04,749 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-30 10:43:04,751 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "test"

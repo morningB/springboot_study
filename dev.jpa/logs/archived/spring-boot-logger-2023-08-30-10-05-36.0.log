@@ -1,0 +1,12 @@
+2023-08-30 10:05:36,256 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-08-30 10:05:36,263 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-30 10:05:36,264 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-08-30 10:05:36,264 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.78]
+2023-08-30 10:05:36,339 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-08-30 10:05:36,347 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 850 ms
+2023-08-30 10:05:36,431 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-30 10:05:36,463 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-08-30 10:05:36,562 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-30 10:05:36,625 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-08-30 10:05:36,702 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-08-30 10:05:36,712 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
