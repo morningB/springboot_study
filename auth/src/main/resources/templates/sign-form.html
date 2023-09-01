@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns :th="https://www.thymleaf.org"
+>
+<head>
+    <meta charset="UTF-8">
+    <title>simple login</title>
+</head>
+<body>
+<form th:action="@{/user/login}" method="post">
+  <input type="text" name ="username" placeholder="아이디"><br>
+  <input type="password" name ="password" placeholder="비밀번호"><br>
+  <input type="password" name ="passwordCheck" placeholder="비밀번호 확인"><br>
+  <button type="submit">회원가입</button>
+</form>
+</body>
+</html>
